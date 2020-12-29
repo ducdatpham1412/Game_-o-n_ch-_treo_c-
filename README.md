@@ -1,2 +1,2 @@
-# game-treo-c-
-run on commandLine
+# Game đoán chữ treo cổ
+Viết bằng C++, chạy trực tiếp trên System
